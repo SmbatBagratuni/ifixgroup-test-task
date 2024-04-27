@@ -1,0 +1,433 @@
+[
+  {
+    "id": "1",
+    "status": "approved",
+    "age": 24,
+    "username": "Crimson Rose",
+    "email": "smbatBagratuni@gmail.com",
+    "reason": "Bad customer service",
+    "case": 222222222,
+    "submissionDate": "2024-14-26"
+  },
+  {
+    "id": "2",
+    "status": "approved",
+    "age": 24,
+    "username": "Luna Starlight",
+    "email": "gmail.com",
+    "reason": "High price",
+    "case": 123755622,
+    "submissionDate": "2020-04-16"
+  },
+  {
+    "status": "pending",
+    "id": "3",
+    "age": 24,
+    "username": "Silver Phoenix",
+    "email": "hotmail.com",
+    "reason": "Low quality",
+    "case": 574552341,
+    "submissionDate": "2014-04-12"
+  },
+  {
+    "status": "declined",
+    "id": "4",
+    "age": 24,
+    "username": "Mystic Dreamer",
+    "email": "oudasdsadatok@.com",
+    "reason": "Found better alternative",
+    "case": 468753224,
+    "submissionDate": "2014-06-29"
+  },
+  {
+    "status": "pending",
+    "id": "5",
+    "age": 24,
+    "username": "Golden Sunrise",
+    "email": "yahoo.com",
+    "reason": "Received damaged item",
+    "case": 797668235,
+    "submissionDate": "2014-06-30"
+  },
+  {
+    "status": "declined",
+    "id": "6",
+    "age": 24,
+    "username": "NotMystic Dreamer2",
+    "email": "outlook1.com",
+    "reason": "Found better alternative",
+    "case": 400000075,
+    "submissionDate": "2012-02-19"
+  },
+  {
+    "status": "approved",
+    "id": "798",
+    "age": 48,
+    "username": "User877",
+    "email": "User877@example.com",
+    "reason": "Changed mind",
+    "case": 777666777,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "920",
+    "age": 38,
+    "username": "User801",
+    "email": "User801@example.com",
+    "reason": "Shipping delays",
+    "case": 333555467,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "648",
+    "age": 70,
+    "username": "User883",
+    "email": "User883@example.com",
+    "reason": "Shipping delays",
+    "case": 666555666,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "275",
+    "age": 39,
+    "username": "User143",
+    "email": "User143@example.com",
+    "reason": "Shipping delays",
+    "case": 345234234,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "693",
+    "age": 60,
+    "username": "User287",
+    "email": "User287@example.com",
+    "reason": "Product not as described",
+    "case": 222343111,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "346",
+    "age": 88,
+    "username": "User352",
+    "email": "User352@example.com",
+    "reason": "Out of stock",
+    "case": 888090909,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "721",
+    "age": 79,
+    "username": "User47",
+    "email": "User47@example.com",
+    "reason": "High price",
+    "case": 444555323,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "319",
+    "age": 57,
+    "username": "User77",
+    "email": "User77@example.com",
+    "reason": "Changed mind",
+    "case": 999808678,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "569",
+    "age": 69,
+    "username": "User789",
+    "email": "User789@example.com",
+    "reason": "Shipping delays",
+    "case": 123432345,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "552",
+    "age": 89,
+    "username": "User84",
+    "email": "User84@example.com",
+    "reason": "Product not as described",
+    "case": 876456345,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "91",
+    "age": 70,
+    "username": "User888",
+    "email": "User888@example.com",
+    "reason": "Changed mind",
+    "case": 333555777,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "462",
+    "age": 43,
+    "username": "User835",
+    "email": "User835@example.com",
+    "reason": "Out of stock",
+    "case": 123423451,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "631",
+    "age": 82,
+    "username": "User604",
+    "email": "User604@example.com",
+    "reason": "Changed mind",
+    "case": 444675678,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "916546456456456456456",
+    "age": 95,
+    "username": "User725",
+    "email": "User725@example.com",
+    "reason": "Changed mind",
+    "case": 566435678,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "972",
+    "age": 65,
+    "username": "User257",
+    "email": "User257@example.com",
+    "reason": "Product not as described",
+    "case": 543671111,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "892",
+    "age": 94,
+    "username": "User840",
+    "email": "User840@example.com",
+    "reason": "High price",
+    "case": 345678321,
+    "submissionDate": "2024-04-26"
+  },
+
+  {
+    "id": "634634",
+    "status": "approved",
+    "age": 24,
+    "username": "Luna Starlight",
+    "email": "gmail.com",
+    "reason": "High price",
+    "case": 123755622,
+    "submissionDate": "2020-04-16"
+  },
+  {
+    "status": "pending",
+    "id": "23235523",
+    "age": 24,
+    "username": "Silver Phoenix",
+    "email": "hotmail.com",
+    "reason": "Low quality",
+    "case": 574552341,
+    "submissionDate": "2014-04-12"
+  },
+  {
+    "status": "declined",
+    "id": "9876543",
+    "age": 24,
+    "username": "Mystic1111111 Dreamer",
+    "email": "oudasdsadatok@.com",
+    "reason": "Found better alternative",
+    "case": 468753224,
+    "submissionDate": "2014-06-29"
+  },
+  {
+    "status": "pending",
+    "id": "1231231235",
+    "age": 24,
+    "username": "Golden Sunrise",
+    "email": "yahoo.com",
+    "reason": "Received damaged item",
+    "case": 797668235,
+    "submissionDate": "2014-06-30"
+  },
+  {
+    "status": "declined",
+    "id": "3123123123123123",
+    "age": 24,
+    "username": "NotMystic Dreamer2",
+    "email": "outlook1.com",
+    "reason": "Found better alternative",
+    "case": 400000075,
+    "submissionDate": "2012-02-19"
+  },
+  {
+    "status": "approved",
+    "id": "546324213123123123",
+    "age": 48,
+    "username": "User877",
+    "email": "User877@example.com",
+    "reason": "Changed mind",
+    "case": 777666777,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "312312365634432421",
+    "age": 38,
+    "username": "User801",
+    "email": "User801@example.com",
+    "reason": "Shipping delays",
+    "case": 333555467,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "9865653325",
+    "age": 70,
+    "username": "User883",
+    "email": "User883@example.com",
+    "reason": "Shipping delays",
+    "case": 666555666,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "5236574743523",
+    "age": 39,
+    "username": "User143",
+    "email": "User143@example.com",
+    "reason": "Shipping delays",
+    "case": 345234234,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "87453235342",
+    "age": 60,
+    "username": "User287",
+    "email": "User287@example.com",
+    "reason": "Product not as described",
+    "case": 222343111,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "632533222222",
+    "age": 88,
+    "username": "User352",
+    "email": "User352@example.com",
+    "reason": "Out of stock",
+    "case": 888090909,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "45444444432",
+    "age": 79,
+    "username": "User47",
+    "email": "User47@example.com",
+    "reason": "High price",
+    "case": 444555323,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "5235325235235325",
+    "age": 57,
+    "username": "User77",
+    "email": "User77@example.com",
+    "reason": "Changed mind",
+    "case": 999808678,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "52353252351111",
+    "age": 69,
+    "username": "User789",
+    "email": "User789@example.com",
+    "reason": "Shipping delays",
+    "case": 123432345,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "222242141",
+    "age": 89,
+    "username": "User84",
+    "email": "User84@example.com",
+    "reason": "Product not as described",
+    "case": 876456345,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "80707807078",
+    "age": 70,
+    "username": "User888",
+    "email": "User888@example.com",
+    "reason": "Changed mind",
+    "case": 333555777,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "7567658678568",
+    "age": 43,
+    "username": "User835",
+    "email": "User835@example.com",
+    "reason": "Out of stock",
+    "case": 123423451,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "767868768768",
+    "age": 82,
+    "username": "User604",
+    "email": "User604@example.com",
+    "reason": "Changed mind",
+    "case": 444675678,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "pending",
+    "id": "4345578098765",
+    "age": 95,
+    "username": "User725",
+    "email": "User725@example.com",
+    "reason": "Changed mind",
+    "case": 566435678,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "declined",
+    "id": "1234565432345",
+    "age": 65,
+    "username": "User257",
+    "email": "User257@example.com",
+    "reason": "Product not as described",
+    "case": 543671111,
+    "submissionDate": "2024-04-26"
+  },
+  {
+    "status": "approved",
+    "id": "76545678976545678",
+    "age": 94,
+    "username": "User840",
+    "email": "User840@example.com",
+    "reason": "High price",
+    "case": 345678321,
+    "submissionDate": "2024-04-26"
+  }
+]
